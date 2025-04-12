@@ -57,7 +57,7 @@ const Header = () => {
   return (
     <header className="w-full px-6 py-6 bg-white flex justify-center">
       <div className="w-full max-w-7xl flex items-center justify-between relative">
-        <img className="w-32" src="/public/horizo-original.png"></img>
+        <img className="w-32" src="/horizo-original.png"></img>
 
         <nav className="flex gap-6">
           {navItems.map((item) => (

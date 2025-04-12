@@ -87,10 +87,7 @@ export default function Plans() {
           property="og:description"
           content="Empezá gratis o elegí un plan Pro o Premium. Reservas simples, imagen profesional, sin complicaciones. Ideal para negocios que quieren crecer."
         />
-        <meta
-          property="og:image"
-          content="https://horizo.com/public/horizo-original.png"
-        />
+        <meta property="og:image" content="https://horizo.com/src/logo.png" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -103,10 +100,7 @@ export default function Plans() {
           name="twitter:description"
           content="Reservas fáciles, sitio web incluido y planes pensados para cada etapa de tu negocio. Empezá gratis hoy."
         />
-        <meta
-          name="twitter:image"
-          content="https://horizo.com/public/horizo-original.png"
-        />
+        <meta name="twitter:image" content="https://horizo.com/src/logo.png" />
       </Helmet>
 
       <Header />

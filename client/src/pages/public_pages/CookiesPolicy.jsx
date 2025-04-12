@@ -34,7 +34,7 @@ const CookiesPolicy = () => {
         />
         <meta
           property="og:image"
-          content="https://horizo.com/public/horizo-original.png"
+          content="https://horizo.com/horizo-original.png"
         />
 
         {/* Twitter Card */}
@@ -50,7 +50,7 @@ const CookiesPolicy = () => {
         />
         <meta
           name="twitter:image"
-          content="https://horizo.com/public/horizo-original.png"
+          content="https://horizo.com/horizo-original.png"
         />
       </Helmet>
 

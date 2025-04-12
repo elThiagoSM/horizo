@@ -17,11 +17,11 @@ const LegalNotice = () => {
           name="keywords"
           content="aviso legal, información legal, titular del sitio, derechos de autor, responsabilidad legal, condiciones legales plataforma, SaaS legal, legal reservas online, cumplimiento legal"
         />
-        <link rel="canonical" href="https://horizo.com/legal" />
+        <link rel="canonical" href="https://mysite.io/legal" />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://horizo.com/legal" />
+        <meta property="og:url" content="https://mysite.io/legal" />
         <meta
           property="og:title"
           content="Aviso Legal | Información sobre la titularidad y condiciones del sitio"
@@ -30,14 +30,11 @@ const LegalNotice = () => {
           property="og:description"
           content="Accedé a la información legal sobre nuestro sitio, titularidad, derechos, responsabilidades y cumplimiento normativo."
         />
-        <meta
-          property="og:image"
-          content="https://horizo.com/public/horizo-original.png"
-        />
+        <meta property="og:image" content="https://mysite.io/src/logo.png" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:url" content="https://horizo.com/legal" />
+        <meta name="twitter:url" content="https://mysite.io/legal" />
         <meta
           name="twitter:title"
           content="Aviso Legal de la plataforma | Información y responsabilidades"
@@ -46,10 +43,7 @@ const LegalNotice = () => {
           name="twitter:description"
           content="Conocé los datos legales y de responsabilidad sobre nuestra plataforma de reservas y creación de sitios web. Cumplimos con las normativas vigentes."
         />
-        <meta
-          name="twitter:image"
-          content="https://horizo.com/public/horizo-original.png"
-        />
+        <meta name="twitter:image" content="https://mysite.io/src/logo.png" />
       </Helmet>
 
       <Header />

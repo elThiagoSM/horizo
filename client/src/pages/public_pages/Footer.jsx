@@ -43,7 +43,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-24 py-10 border-b border-black/15">
           {/* Columna 1 - Logo y descripción */}
           <div>
-            <img className="w-32 mb-3" src="/public/horizo-blanco.png"></img>
+            <img className="w-32 mb-3" src="/horizo-blanco.png"></img>
             <p className="text-white">
               Es una aplicación web de reservas de servicios para múltiples
               empresas que brinda a sus usuarios la capacidad de crear y
