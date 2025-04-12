@@ -1,0 +1,13 @@
+{
+  "name": "reseva-ahora",
+  "version": "1.0.0",
+  "description": ".",
+  "scripts": {
+    "dev": "concurrently \"cd client && npm run dev\" \"cd server && node index.js\""
+  },
+  "author": "Thiago Silveira Machado",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
